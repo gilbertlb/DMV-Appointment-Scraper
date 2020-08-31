@@ -1,7 +1,6 @@
 # DMV-Appointment-Scraper
 > With the rise of Coronavirus, the Virginia DMV has struggled to come up with a system for processing everything. They made an appointment system, however the system heavily suffers from overcrowding, getting an appointment that isn't a month or more away can be a struggle.
-![PNG](https://github.com/gilbertlb/DMV-Appointment-Scraper/blob/master/readme%20resources/DMV.png)
-<img src="https://github.com/gilbertlb/DMV-Appointment-Scraper/blob/master/readme%20resources/DMV.png" align="left" height="300" width="400" >
+![PNG](https://github.com/gilbertlb/DMV-Appointment-Scraper/blob/master/readme%20resources/DMV.png | width = 100px height = 100px)
 > A friend of mine needed to get an appointment so he could get his Virginia drivers license, however he needed it before the deadline to apply for in-state tuition, which was roughly one week away. Given that I didn't wish to let my friend have to leave college, I put together this script to get him the soonest appointment possible.
 ![GIF](https://github.com/gilbertlb/DMV-Appointment-Scraper/blob/master/readme%20resources/output.gif)
 > It takes a CSV file containing a list of all the DMV URL's and locations for a license related appointment that does not require testing, as well as a CSV file containing the information to be used. The required information is the numerical month to get an appointment in, the last day acceptable (I.E if you need it before the 15th, you put 16), the first name, the last name, the phone number, and the email address to use for the appointment.
